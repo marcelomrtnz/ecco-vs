@@ -11,7 +11,7 @@ import ingenieriaCivil from './carreras/ingenieria-civil.json'
 import economia from './carreras/economia.json'
 import pedagogia from './carreras/pedagogia.json'
 import quimicaIndustrial from './carreras/quimica-industrial.json'
-import concejoUniversitario from './carreras/concejo-universitario.json'
+import consejoUniversitario from './carreras/consejo-universitario.json'
 import unidadAcademica from './carreras/unidad-academica.json'
 import feuh from './carreras/feuh.json'
 
@@ -57,7 +57,7 @@ const allCarreras: Carrera[] = [
   economia,
   pedagogia,
   quimicaIndustrial,
-  concejoUniversitario,
+  consejoUniversitario,
   unidadAcademica,
   feuh,
 ]
@@ -66,7 +66,7 @@ const allCarreras: Carrera[] = [
 export function getCarrerasOnly(): Carrera[] {
   return allCarreras.filter(
     (c) =>
-      c.slug !== 'concejo-universitario-unah-vs-elecciones-2026' &&
+      c.slug !== 'consejo-universitario-unah-vs-elecciones-2026' &&
       c.slug !== 'unidad-academica-unah-vs-elecciones-2026' &&
       c.slug !== 'feuh-unah-vs-elecciones-2026'
   )
@@ -76,7 +76,7 @@ export function getCarrerasOnly(): Carrera[] {
 export function getEntidadesGobierno(): Carrera[] {
   return allCarreras.filter(
     (c) =>
-      c.slug === 'concejo-universitario-unah-vs-elecciones-2026' ||
+      c.slug === 'consejo-universitario-unah-vs-elecciones-2026' ||
       c.slug === 'unidad-academica-unah-vs-elecciones-2026' ||
       c.slug === 'feuh-unah-vs-elecciones-2026'
   )

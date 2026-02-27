@@ -40,7 +40,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     {
-      url: `${BASE_URL}/concejo-universitario`,
+      url: `${BASE_URL}/consejo-universitario`,
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.8,

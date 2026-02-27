@@ -54,10 +54,10 @@ export function SiteFooter() {
                 Unidad Academica
               </Link>
               <Link
-                href="/concejo-universitario"
+                href="/consejo-universitario"
                 className="text-sm text-porcelain/60 transition-colors hover:text-carrot-orange"
               >
-                Concejo Universitario
+                Consejo Universitario
               </Link>
               <Link
                 href="/feuh"

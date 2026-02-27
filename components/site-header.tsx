@@ -18,7 +18,7 @@ const navLinks = [
   { href: '/propuestas', label: 'Propuestas' },
   { href: '/articulos', label: 'Articulos' },
   { href: '/unidad-academica', label: 'Unidad Academica' },
-  { href: '/concejo-universitario', label: 'Concejo' },
+  { href: '/consejo-universitario', label: 'Consejo' },
   { href: '/feuh', label: 'FEUH' },
 ]
 

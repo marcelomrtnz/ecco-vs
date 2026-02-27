@@ -1,10 +1,10 @@
 {
-  "slug": "concejo-universitario-unah-vs-elecciones-2026",
-  "nombre": "Concejo Universitario",
+  "slug": "consejo-universitario-unah-vs-elecciones-2026",
+  "nombre": "Consejo Universitario",
   "facultad": "Gobierno Universitario",
   "candidatos": [
-    { "nombre": "Lorem Ipsum Dolor", "cargo": "Representante Estudiantil", "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt.", "foto": "/candidatos/concejo-universitario/1.jpg", "activo": true },
-    { "nombre": "Sit Amet Consectetur", "cargo": "Suplente", "descripcion": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.", "foto": "/candidatos/concejo-universitario/2.jpg", "activo": true }
+    { "nombre": "Lorem Ipsum Dolor", "cargo": "Representante Estudiantil", "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt.", "foto": "/candidatos/consejo-universitario/1.jpg", "activo": true },
+    { "nombre": "Sit Amet Consectetur", "cargo": "Suplente", "descripcion": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.", "foto": "/candidatos/consejo-universitario/2.jpg", "activo": true }
   ],
   "propuestas": [
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod.",

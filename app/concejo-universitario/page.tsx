@@ -10,20 +10,20 @@ import { JsonLd } from '@/components/json-ld'
 import { generateBreadcrumbLD } from '@/lib/seo-utils'
 import { getCarrera } from '@/data/carreras'
 
-const SLUG = 'concejo-universitario-unah-vs-elecciones-2026'
+const SLUG = 'consejo-universitario-unah-vs-elecciones-2026'
 
 export const metadata: Metadata = {
-  title: 'Concejo Universitario - Elecciones UNAH 2026 - ECCO',
+  title: 'Consejo Universitario - Elecciones UNAH 2026 - ECCO',
   description:
-    'Candidatos y propuestas de ECCO para el Concejo Universitario en las elecciones estudiantiles UNAH 2026. UNAH-VS Valle de Sula.',
-  alternates: { canonical: 'https://ecco-vs.com/concejo-universitario' },
+    'Candidatos y propuestas de ECCO para el Consejo Universitario en las elecciones estudiantiles UNAH 2026. UNAH-VS Valle de Sula.',
+  alternates: { canonical: 'https://ecco-vs.com/consejo-universitario' },
 }
 
-export default function ConcejoUniversitarioPage() {
+export default function ConsejoUniversitarioPage() {
   const carrera = getCarrera(SLUG)!
   const breadcrumbItems = [
     { name: 'Inicio', url: '/' },
-    { name: 'Concejo Universitario', url: '/concejo-universitario' },
+    { name: 'Consejo Universitario', url: '/consejo-universitario' },
   ]
 
   return (
@@ -34,7 +34,7 @@ export default function ConcejoUniversitarioPage() {
 
         <div className="mt-8 flex flex-col gap-2">
           <h1 className="text-balance text-3xl font-bold text-charcoal md:text-4xl">
-            Concejo Universitario
+            Consejo Universitario
             <span className="block text-lg font-medium text-carrot-orange md:text-xl">
               UNAH-VS Elecciones 2026
             </span>
@@ -61,7 +61,7 @@ export default function ConcejoUniversitarioPage() {
         <div className="mt-14">
           <ProposalsList
             propuestas={carrera.propuestas}
-            carreraNombre="Concejo Universitario"
+            carreraNombre="Consejo Universitario"
           />
         </div>
 
