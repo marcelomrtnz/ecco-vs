@@ -1,0 +1,24 @@
+{
+  "slug": "medicina-unah-vs-elecciones-2026",
+  "nombre": "Medicina",
+  "facultad": "Ciencias Medicas",
+  "candidatos": [
+    { "nombre": "Lorem Ipsum Dolor", "cargo": "Presidencia", "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.", "foto": "/candidatos/medicina/1.jpg", "activo": true },
+    { "nombre": "Sit Amet Consectetur", "cargo": "Vicepresidencia", "descripcion": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.", "foto": "/candidatos/medicina/2.jpg", "activo": true },
+    { "nombre": "Adipiscing Elit Sed", "cargo": "Secretaria", "descripcion": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.", "foto": "/candidatos/medicina/3.jpg", "activo": true }
+  ],
+  "propuestas": [
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor.",
+    "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.",
+    "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+    "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.",
+    "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium."
+  ],
+  "logros": [
+    { "imagen": "/logros/medicina/1.jpg", "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit." }
+  ],
+  "faqs": [
+    { "pregunta": "Lorem ipsum dolor sit amet consectetur?", "respuesta": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip." },
+    { "pregunta": "Ut enim ad minim veniam quis nostrud?", "respuesta": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident." }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "odontologia-unah-vs-elecciones-2026",
+  "nombre": "Odontologia",
+  "facultad": "Ciencias Medicas",
+  "candidatos": [
+    { "nombre": "Lorem Ipsum Dolor", "cargo": "Presidencia", "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore.", "foto": "/candidatos/odontologia/1.jpg", "activo": true },
+    { "nombre": "Sit Amet Consectetur", "cargo": "Vicepresidencia", "descripcion": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.", "foto": "/candidatos/odontologia/2.jpg", "activo": true }
+  ],
+  "propuestas": [
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor.",
+    "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.",
+    "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+    "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia."
+  ],
+  "logros": [],
+  "faqs": [
+    { "pregunta": "Lorem ipsum dolor sit amet consectetur?", "respuesta": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud." },
+    { "pregunta": "Ut enim ad minim veniam quis nostrud?", "respuesta": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur." }
+  ]
+}

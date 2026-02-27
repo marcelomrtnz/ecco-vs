@@ -1,0 +1,19 @@
+{
+  "slug": "psicologia-unah-vs-elecciones-2026",
+  "nombre": "Psicologia",
+  "facultad": "Ciencias Sociales",
+  "candidatos": [
+    { "nombre": "Lorem Ipsum Dolor", "cargo": "Presidencia", "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt.", "foto": "/candidatos/psicologia/1.jpg", "activo": true },
+    { "nombre": "Sit Amet Consectetur", "cargo": "Vicepresidencia", "descripcion": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.", "foto": "/candidatos/psicologia/2.jpg", "activo": true }
+  ],
+  "propuestas": [
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+    "Duis aute irure dolor in reprehenderit in voluptate velit.",
+    "Excepteur sint occaecat cupidatat non proident sunt in culpa."
+  ],
+  "logros": [],
+  "faqs": [
+    { "pregunta": "Lorem ipsum dolor sit amet?", "respuesta": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ingenieria-industrial-unah-vs-elecciones-2026",
+  "nombre": "Ingenieria Industrial",
+  "facultad": "Ingenieria",
+  "candidatos": [
+    { "nombre": "Lorem Ipsum Dolor", "cargo": "Presidencia", "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor.", "foto": "/candidatos/ingenieria-industrial/1.jpg", "activo": true },
+    { "nombre": "Sit Amet Consectetur", "cargo": "Vicepresidencia", "descripcion": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.", "foto": "/candidatos/ingenieria-industrial/2.jpg", "activo": true }
+  ],
+  "propuestas": [
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "Ut enim ad minim veniam, quis nostrud exercitation.",
+    "Duis aute irure dolor in reprehenderit in voluptate.",
+    "Excepteur sint occaecat cupidatat non proident."
+  ],
+  "logros": [],
+  "faqs": [
+    { "pregunta": "Lorem ipsum dolor sit amet?", "respuesta": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." }
+  ]
+}

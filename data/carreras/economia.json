@@ -1,0 +1,19 @@
+{
+  "slug": "economia-unah-vs-elecciones-2026",
+  "nombre": "Economia",
+  "facultad": "Ciencias Economicas",
+  "candidatos": [
+    { "nombre": "Lorem Ipsum Dolor", "cargo": "Presidencia", "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor.", "foto": "/candidatos/economia/1.jpg", "activo": true },
+    { "nombre": "Sit Amet Consectetur", "cargo": "Vicepresidencia", "descripcion": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.", "foto": "/candidatos/economia/2.jpg", "activo": true }
+  ],
+  "propuestas": [
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "Ut enim ad minim veniam, quis nostrud exercitation.",
+    "Duis aute irure dolor in reprehenderit in voluptate.",
+    "Excepteur sint occaecat cupidatat non proident."
+  ],
+  "logros": [],
+  "faqs": [
+    { "pregunta": "Lorem ipsum dolor sit amet?", "respuesta": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." }
+  ]
+}

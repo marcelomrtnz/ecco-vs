@@ -1,0 +1,19 @@
+{
+  "slug": "feuh-unah-vs-elecciones-2026",
+  "nombre": "FEUH - Federacion de Estudiantes Universitarios de Honduras",
+  "facultad": "Gobierno Estudiantil",
+  "candidatos": [
+    { "nombre": "Lorem Ipsum Dolor", "cargo": "Presidente FEUH", "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt.", "foto": "/candidatos/feuh/1.jpg", "activo": true },
+    { "nombre": "Sit Amet Consectetur", "cargo": "Vicepresidente FEUH", "descripcion": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.", "foto": "/candidatos/feuh/2.jpg", "activo": true }
+  ],
+  "propuestas": [
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod.",
+    "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+    "Duis aute irure dolor in reprehenderit in voluptate velit esse.",
+    "Excepteur sint occaecat cupidatat non proident sunt in culpa."
+  ],
+  "logros": [],
+  "faqs": [
+    { "pregunta": "Lorem ipsum dolor sit amet consectetur?", "respuesta": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam." }
+  ]
+}
