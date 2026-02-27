@@ -68,11 +68,6 @@ export default function HomePage() {
       <JsonLd data={generateOrganizationLD()} />
       <JsonLd data={generateEventLD()} />
 
-      {/* Breadcrumbs */}
-      <div className="mx-auto max-w-7xl px-4 pt-6 md:px-6">
-        <BreadcrumbsNav items={[{ name: 'Inicio', url: '/' }]} />
-      </div>
-
       {/* Hero Section */}
       <section className="relative overflow-hidden">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,_var(--color-carrot-orange)_0%,_transparent_60%)] opacity-[0.07]" />
