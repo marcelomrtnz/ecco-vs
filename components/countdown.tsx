@@ -41,11 +41,19 @@ function CountdownUnit({ value, label }: { value: number; label: string }) {
 }
 
 export function Countdown() {
-  const [timeLeft, setTimeLeft] = useState<TimeLeft>(calculateTimeLeft)
+  const [timeLeft, setTimeLeft] = useState<TimeLeft>({
+    dias: 0,
+    horas: 0,
+    minutos: 0,
+    segundos: 0,
+  })
   const [mounted, setMounted] = useState(false)
 
   useEffect(() => {
+    // Calculate immediately on client side
+    setTimeLeft(calculateTimeLeft())
     setMounted(true)
+    
     const timer = setInterval(() => {
       setTimeLeft(calculateTimeLeft())
     }, 1000)
