@@ -2,18 +2,73 @@
   "slug": "ingenieria-industrial-unah-vs-elecciones-2026",
   "nombre": "Ingenieria Industrial",
   "facultad": "Ingenieria",
+  "actividades": [
+    "Desarrollo Profesional",
+    "Comunicación y Transparencia",
+    "Infraestructura y Espacios de Estudio",
+    "Gestión Académica",
+    "Proyección y Marketing de la Carrera",
+    "Compromiso Social"
+  ],
   "candidatos": [
-    { "nombre": "Lorem Ipsum Dolor", "cargo": "Presidencia", "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor.", "foto": "/candidatos/ingenieria-industrial/1.jpg", "activo": true },
-    { "nombre": "Sit Amet Consectetur", "cargo": "Vicepresidencia", "descripcion": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.", "foto": "/candidatos/ingenieria-industrial/2.jpg", "activo": true }
+    {
+      "nombre": "Jefferson Reyes",
+      "cargo": "Presidente",
+      "descripcion": "Estudiante con experiencia en logística industrial y cadena de suministros.",
+      "foto": "/candidatos/ingenieria-industrial/1.jpg",
+      "activo": true
+    },
+    {
+      "nombre": "Kenneth Cano",
+      "cargo": "Vicepresidente",
+      "descripcion": "Estudiante con experiencia en auditoría financiera y control de inventarios.",
+      "foto": "/candidatos/ingenieria-industrial/2.jpg",
+      "activo": true
+    },
+    {
+      "nombre": "Yohari Rivera",
+      "cargo": "Secretaria general",
+      "descripcion": "",
+      "foto": "/candidatos/ingenieria-industrial/3.jpg",
+      "activo": true
+    },
+    {
+      "nombre": "Johel Mendoza",
+      "cargo": "Secretario de finanzas",
+      "descripcion": "Estudiante con experiencia en control de inventarios.",
+      "foto": "/candidatos/ingenieria-industrial/4.jpg",
+      "activo": true
+    },
+    {
+      "nombre": "Hazell Orellana",
+      "cargo": "Secretaria de Publicidad",
+      "descripcion": "Estudiante con experiencia en servicio al cliente, RRHH y HSI.",
+      "foto": "/candidatos/ingenieria-industrial/5.jpg",
+      "activo": true
+    }
   ],
   "propuestas": [
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "Ut enim ad minim veniam, quis nostrud exercitation.",
-    "Duis aute irure dolor in reprehenderit in voluptate.",
-    "Excepteur sint occaecat cupidatat non proident."
+    "Programa de talleres técnicos y conferencias enfocadas en herramientas utilizadas en la industria actual.",
+    "Programa de Vinculación Empresarial y Visitas Técnicas",
+    "Programa de asesoría técnica gratuita a pequeños emprendimientos y microempresas locales."
   ],
   "logros": [],
   "faqs": [
-    { "pregunta": "Lorem ipsum dolor sit amet?", "respuesta": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." }
+    {
+      "pregunta": "¿Qué hace exactamente un Ingeniero Industrial?",
+      "respuesta": "Diseña, mejora e instala sistemas integrados de personas, materiales, información y equipos para aumentar la eficiencia y reducir costos. Su enfoque abarca tanto la producción como los servicios."
+    },
+    {
+      "pregunta": "¿Qué perfil se necesita?",
+      "respuesta": "Interés por las ciencias exactas, capacidad analítica, liderazgo, curiosidad, mentalidad innovadora, gusto por la optimización y habilidades para trabajar en equipo."
+    },
+    {
+      "pregunta": "¿Dónde puede trabajar un Ingeniero Industrial?",
+      "respuesta": "Las salidas laborales incluyen logística y transporte, gestión de producción, control de calidad, análisis financiero, recursos humanos, consultoría, seguridad industrial y automatización."
+    },
+    {
+      "pregunta": "¿Qué diferencia a la Ingeniería Industrial?",
+      "respuesta": "Su enfoque multidisciplinario une la técnica de la ingeniería con la gestión administrativa, permitiendo trabajar en múltiples sectores empresariales."
+    }
   ]
 }
