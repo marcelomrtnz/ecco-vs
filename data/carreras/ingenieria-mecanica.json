@@ -2,18 +2,71 @@
   "slug": "ingenieria-mecanica-unah-vs-elecciones-2026",
   "nombre": "Ingenieria Mecanica",
   "facultad": "Ingenieria",
+  "actividades": [
+    "Visita a Laboratorios del edificio 4 con estudiantes de Introducción"
+  ],
   "candidatos": [
-    { "nombre": "Lorem Ipsum Dolor", "cargo": "Presidencia", "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor.", "foto": "/candidatos/ingenieria-mecanica/1.jpg", "activo": true },
-    { "nombre": "Sit Amet Consectetur", "cargo": "Vicepresidencia", "descripcion": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.", "foto": "/candidatos/ingenieria-mecanica/2.jpg", "activo": true }
+    {
+      "nombre": "Jose Eduardo Lanza Avilez",
+      "cargo": "Presidente",
+      "descripcion": "Persona proactiva, responsable, sociable y abierto a escuchar a los demás, adicto al trabajo y con mucha paciencia.",
+      "foto": "/candidatos/ingenieria-mecanica/JoseLanza.png",
+      "activo": true
+    },
+    {
+      "nombre": "Valeria Sofia Gonzalez Bautista",
+      "cargo": "Vicepresidenta",
+      "descripcion": "Carácter fuerte pero muy alegre, con capacidad de adaptarse a cualquier situación.",
+      "foto": "/candidatos/ingenieria-mecanica/ValeriaGonzales.png",
+      "activo": true
+    },
+    {
+      "nombre": "Isis Alejandra Herrera Aguilar",
+      "cargo": "Secretaria General",
+      "descripcion": "Solidaria, responsable y muy trabajadora, se preocupa por los demás y siempre con ganas de trabajar.",
+      "foto": "/candidatos/ingenieria-mecanica/IsisHerrera.png",
+      "activo": true
+    },
+    {
+      "nombre": "Dayana Lynnette Ramirez Antunez",
+      "cargo": "Secretaría de Finanzas",
+      "descripcion": "Muy alegre y dispuesta a ayudar en todo, responsable y con alta capacidad de tolerancia.",
+      "foto": "/candidatos/ingenieria-mecanica/DayannaRamirez.png",
+      "activo": true
+    },
+    {
+      "nombre": "Maynor Daniel Osorio Bejaran",
+      "cargo": "Secretario de Publicidad",
+      "descripcion": "Persona paciente y muy tranquila, con gusto por las bromas y apasionada con lo que hace.",
+      "foto": "/candidatos/ingenieria-mecanica/MaynorOsorio.png",
+      "activo": true
+    }
   ],
   "propuestas": [
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "Ut enim ad minim veniam, quis nostrud exercitation.",
-    "Duis aute irure dolor in reprehenderit in voluptate.",
-    "Excepteur sint occaecat cupidatat non proident."
+    "Implementación de laboratorios en clases de Mecanica de fluidos y Termodinamica 1",
+    "Actualización de equipos en Aula de descanso",
+    "Implementación de visitas técnicas a empresas como método de ampliación de ofertas laborales para estudiantes.",
+    "Charlas técnicas de temas competentes a ingeniería Mecánica industrial impartidas por expertos en el área.",
+    "Desarrollo de taller de soldadura, como herramienta para estudiantes que deseen aprender o practicar habilidades.",
+    "Vinculación con las demás Ingenierías afines (Ingeniería Eléctrica Industrial, Ingeniería Industrial) buscando fomentar las relaciones con colegas."
   ],
   "logros": [],
   "faqs": [
-    { "pregunta": "Lorem ipsum dolor sit amet?", "respuesta": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." }
+    {
+      "pregunta": "¿En Ingeniería Mecánica se aprende a reparar carros?",
+      "respuesta": "No, la ingeniería mecánica industrial no se trata con automóviles. Un ingeniero mecánico se dedica al diseño, mantenimiento, en áreas como la refrigeración industrial, bombas, turbinas, compresores, calderas, gestión de proyectos industriales, gestión de plantas industriales, etc."
+    },
+    {
+      "pregunta": "¿Cuáles son las áreas que se enseñan en la carrera de Ingeniería Mecánica?",
+      "respuesta": "Existen 3 ramas principales: Termofluidos con clases como mecánica de fluidos, termodinámica 1 y 2, transferencia de calor; Sólidos y materiales con clases como Mecánica de materiales 1 y 2, y la secuencia más larga de Elementos de máquinas 1, 2 y 3, donde se aprende el diseño y construcción de distintas piezas y máquinas; Manufactura con clases como metalurgia, procesos de manufactura 1 y 2 y metrología, donde se aprenden los fundamentos de los metales, se trabaja con ellos y se aprenden normas y procesos utilizados en la industria."
+    },
+    {
+      "pregunta": "¿Cuántos años dura la carrera de Ingeniería Mecánica?",
+      "respuesta": "La carrera de Ingeniería mecánica industrial dura de 4 a 5 años aproximadamente."
+    },
+    {
+      "pregunta": "¿Es posible encontrar trabajo mientras se estudia Ingeniería Mecánica?",
+      "respuesta": "Sí, es posible encontrar trabajo mientras se estudia ya que la oferta laboral es muy grande para un ingeniero mecánico y contar con experiencia es fundamental. Aunque el rendimiento académico puede decaer ya que se tiene que adaptar a horarios y administrar bien el tiempo."
+    }
   ]
 }

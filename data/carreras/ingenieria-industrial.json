@@ -15,41 +15,41 @@
       "nombre": "Jefferson Reyes",
       "cargo": "Presidente",
       "descripcion": "Estudiante con experiencia en logística industrial y cadena de suministros.",
-      "foto": "/candidatos/ingenieria-industrial/1.jpg",
+      "foto": "/candidatos/ingenieria-industrial/JeffersonReyes.jpeg",
       "activo": true
     },
     {
       "nombre": "Kenneth Cano",
       "cargo": "Vicepresidente",
       "descripcion": "Estudiante con experiencia en auditoría financiera y control de inventarios.",
-      "foto": "/candidatos/ingenieria-industrial/2.jpg",
+      "foto": "/candidatos/ingenieria-industrial/KennethCano.jpeg",
       "activo": true
     },
     {
-      "nombre": "Yohari Rivera",
+      "nombre": "Yohari Ramirez",
       "cargo": "Secretaria general",
-      "descripcion": "",
-      "foto": "/candidatos/ingenieria-industrial/3.jpg",
+      "descripcion": "Estudiante con experiencia en logística y compras locales e importaciones.",
+      "foto": "/candidatos/ingenieria-industrial/IsisRamirez.jpeg",
       "activo": true
     },
     {
       "nombre": "Johel Mendoza",
       "cargo": "Secretario de finanzas",
       "descripcion": "Estudiante con experiencia en control de inventarios.",
-      "foto": "/candidatos/ingenieria-industrial/4.jpg",
+      "foto": "/candidatos/ingenieria-industrial/JohelMendoza.jpg",
       "activo": true
     },
     {
       "nombre": "Hazell Orellana",
       "cargo": "Secretaria de Publicidad",
       "descripcion": "Estudiante con experiencia en servicio al cliente, RRHH y HSI.",
-      "foto": "/candidatos/ingenieria-industrial/5.jpg",
+      "foto": "/candidatos/ingenieria-industrial/HazellOrellana.jpeg",
       "activo": true
     }
   ],
   "propuestas": [
     "Programa de talleres técnicos y conferencias enfocadas en herramientas utilizadas en la industria actual.",
-    "Programa de Vinculación Empresarial y Visitas Técnicas",
+    "Programa de Vinculación Empresarial y Visitas Técnicas.",
     "Programa de asesoría técnica gratuita a pequeños emprendimientos y microempresas locales."
   ],
   "logros": [],
@@ -59,7 +59,7 @@
       "respuesta": "Diseña, mejora e instala sistemas integrados de personas, materiales, información y equipos para aumentar la eficiencia y reducir costos. Su enfoque abarca tanto la producción como los servicios."
     },
     {
-      "pregunta": "¿Qué perfil se necesita?",
+      "pregunta": "¿Qué perfil se necesita para un Ingeniero Industrial?",
       "respuesta": "Interés por las ciencias exactas, capacidad analítica, liderazgo, curiosidad, mentalidad innovadora, gusto por la optimización y habilidades para trabajar en equipo."
     },
     {
