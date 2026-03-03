@@ -1,19 +1,87 @@
 {
   "slug": "quimica-industrial-unah-vs-elecciones-2026",
   "nombre": "Quimica Industrial",
-  "facultad": "Quimica y Farmacia",
+  "facultad": "Ingeniería",
+  "actividades": [
+    "Ventas Pro-Reactivos: Organización de ventas (comida, artículos, etc.) con fechas específicas para recaudar fondos destinados a insumos químicos.",
+    "Jornada Técnica de Química Industrial: Un evento de un día con charlas de exalumnos (experiencia laboral) y exposición de posters de proyectos de alumnos actuales.",
+    "Concurso de Diseño de Marca: Convocatoria abierta para crear el diseño de la camisa de la carrera, buscando una identidad que proyecte profesionalismo industrial.",
+    "Asamblea de Censo: Una reunión informativa para explicar paso a paso cómo funcionará la nueva logística de recepción de laboratorios para el próximo periodo."
+  ],
   "candidatos": [
-    { "nombre": "Lorem Ipsum Dolor", "cargo": "Presidencia", "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor.", "foto": "/candidatos/quimica-industrial/1.jpg", "activo": true },
-    { "nombre": "Sit Amet Consectetur", "cargo": "Vicepresidencia", "descripcion": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.", "foto": "/candidatos/quimica-industrial/2.jpg", "activo": true }
+    {
+      "nombre": "Meli Alexandra Núñez Rodríguez",
+      "cargo": "Presidenta",
+      "descripcion": "Enfocada en la representación firme del estudiantado, el fortalecimiento académico y la construcción de una gestión participativa, eficiente y transparente al servicio de la carrera.",
+      "foto": "/candidatos/quimica-industrial/MeliNuñez.png",
+      "activo": true
+    },
+    {
+      "nombre": "Melanie Valeria Bejarano Leiva",
+      "cargo": "Vicepresidenta",
+      "descripcion": "Enfocada en el trabajo en equipo y en fortalecer la representación estudiantil con responsabilidad y liderazgo activo.",
+      "foto": "/candidatos/quimica-industrial/MelanieBejarano.png",
+      "activo": true
+    },
+    {
+      "nombre": "Anuar Josué Sabillón Galeas",
+      "cargo": "Secretario General",
+      "descripcion": "Dedicado a la organización, coordinación y seguimiento eficiente de cada proceso institucional.",
+      "foto": "/candidatos/quimica-industrial/AnuarSabillon.png",
+      "activo": true
+    },
+    {
+      "nombre": "Hellen Andrea Villanueva Pérez",
+      "cargo": "Secretaria de Relaciones",
+      "descripcion": "Comprometida con la comunicación efectiva y el fortalecimiento de vínculos dentro y fuera de la comunidad estudiantil.",
+      "foto": "/candidatos/quimica-industrial/HellenVillanueva.png",
+      "activo": true
+    },
+    {
+      "nombre": "Luisa Fernanda Núñez Galo",
+      "cargo": "Secretaria de Finanzas",
+      "descripcion": "Responsable de la administración transparente y estratégica de los recursos en beneficio de los estudiantes.",
+      "foto": "/candidatos/quimica-industrial/LuisaNuñez.png",
+      "activo": true
+    },
+    {
+      "nombre": "Katherine Michelle Silva Cruz",
+      "cargo": "Secretaria de Publicidad",
+      "descripcion": "Encargada de la difusión clara y creativa de la información para mantener informada a la comunidad.",
+      "foto": "/candidatos/quimica-industrial/KatherineSilva.png",
+      "activo": true
+    },
+    {
+      "nombre": "Sofía Yamileth Nataren Morales",
+      "cargo": "Fiscal",
+      "descripcion": "Enfocada en la supervisión, legalidad y cumplimiento de las normas para garantizar una gestión íntegra.",
+      "foto": "/candidatos/quimica-industrial/SofíaNataren.png",
+      "activo": true
+    }
   ],
   "propuestas": [
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "Ut enim ad minim veniam, quis nostrud exercitation.",
-    "Duis aute irure dolor in reprehenderit in voluptate.",
-    "Excepteur sint occaecat cupidatat non proident."
+    "Optimización del Censo de Laboratorio: Coordinar con el departamento para que la asignación de laboratorios, días y horas sea un proceso ágil, justo y transparente para todos los alumnos.",
+    "Sede de la Asociación: Gestión formal ante las autoridades de la UNAH-VS para obtener un espacio físico propio para los estudiantes de Química Industrial.",
+    "Gestión de Insumos de Bioseguridad y Práctica: Garantizar que cada laboratorio cuente con un stock permanente de jabón líquido, papel servilleta (papel toalla), guantes y mascarillas.",
+    "Rehabilitación de Infraestructura Estudiantil: Ejecutar un plan de reparación de los casilleros (lockers) y una jornada de pintura en el laboratorio para que nuestras áreas de estudio se vean profesionales."
   ],
   "logros": [],
   "faqs": [
-    { "pregunta": "Lorem ipsum dolor sit amet?", "respuesta": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." }
+    {
+      "pregunta": "¿Qué importancia tiene el dominio del idioma inglés en el campo profesional?",
+      "respuesta": "El manejo técnico del inglés es fundamental para la interpretación de manuales de equipos de última generación, la lectura de normativas internacionales (ASTM, ISO) y la comunicación efectiva en empresas multinacionales que operan en los parques industriales de la región."
+    },
+    {
+      "pregunta": "¿En qué empresas puedo trabajar en la zona norte al graduarme?",
+      "respuesta": "El campo en la química industrial es enorme. Desde la industria textil (maquilas) y de alimentos (Cervecería, harineras), hasta farmacéuticas, plantas de tratamiento de aguas y laboratorios de análisis ambiental en San Pedro Sula y alrededores."
+    },
+    {
+      "pregunta": "¿Es posible realizar visitas técnicas a plantas industriales antes de la PPS?",
+      "respuesta": "La carrera busca vincular la teoría con la práctica mediante visitas guiadas a empresas del Valle de Sula. Estas actividades son coordinadas por las cátedras de Operaciones Unitarias y Procesos Industriales para observar el escalamiento de procesos de laboratorio a nivel de planta."
+    },
+    {
+      "pregunta": "¿Cómo se solicita la apertura de sesiones de laboratorio con alta demanda?",
+      "respuesta": "La gestión se realiza a través de la Asociación de Estudiantes y la Jefatura del Departamento. Se debe presentar un listado de estudiantes con la asignatura en su flujo académico que no lograron cupo, justificando la necesidad de apertura de una nueva sección basada en la disponibilidad de instructores y espacio físico en el laboratorio."
+    }
   ]
 }
